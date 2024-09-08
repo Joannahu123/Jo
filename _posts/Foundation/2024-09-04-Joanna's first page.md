@@ -2,14 +2,9 @@
 <!--button to silly cat 1-->
 <div style="text-align: center;">
 <div>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <p><h3>I like cats</h3></p>
-     <button><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfHWq9VBjFFeJx416qRh8ya04KjtgEc8FvPf939dIHfT2kud8deCF3tw3rniE5bzfILas&usqp=CAU" target="_blank" class="button"><p title = "free cleaning service">(ᓀ‸ᓂ)</p></a></button>
-</body>
+
+ <p><h3>I like cats</h3></p>
+ <button><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfHWq9VBjFFeJx416qRh8ya04KjtgEc8FvPf939dIHfT2kud8deCF3tw3rniE5bzfILas&usqp=CAU" target="_blank" class="button"><p title = "free cleaning service">(ᓀ‸ᓂ)</p></a></button>
 <!--redirects to new tab, when hovering, text will appear-->
 
 

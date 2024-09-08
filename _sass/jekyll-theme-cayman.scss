@@ -31,7 +31,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: $body-text-color;
+  color: #362C73; 
 }
 
 #skip-to-content {
@@ -64,19 +64,19 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
+  color: rgb(90, 137, 216);
+  background-color: rgb(30, 7, 49);
+  border-color: rgb(23, 1, 39);
   border-style: solid;
-  border-width: 1px;
+  border-width: 2px;
   border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(7, 17, 48, 0.8);
     text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.3);
+    background-color: rgb(169, 183, 246);
+    border-color: rgb(23, 1, 39);
   }
 
   + .btn {
@@ -105,11 +105,36 @@ a {
   }
 }
 
+$gradient-primary: #371155;
+$gradient-secondary: #04294d;
+$image-url: url('images/stars_in_night_sky.jpg'); 
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: linear-gradient(to bottom right,$gradient-primary, $gradient-secondary ); //$header-bg-color-secondary, $header-bg-color)
+
+
+  /*.overlay-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: $image-url;
+    background-size: cover; // Cover the entire header area
+    background-position: center; // Center the image
+    opacity: 0.8; // Adjust opacity as needed
+    pointer-events: none; // Ensure the image does not block interaction
+  }
+
+  h1 {
+    position: relative; // Ensure header content appears above the overlay image
+    z-index: 1;
+  } 
+    
+  trying to add background image on top of gradiant but idk why it's not working*/
 
   @include large {
     padding: 5rem 6rem;
@@ -123,6 +148,8 @@ a {
     padding: 2rem 1rem;
   }
 }
+
+
 
 .project-name {
   margin-top: 0;
@@ -184,7 +211,7 @@ a {
   }
   
   kbd {
-    background-color: #fafbfc;
+    background-color: #0e365e;
     border: 1px solid #c6cbd1;
     border-bottom-color: #959da5;
     border-radius: 3px;
@@ -210,7 +237,7 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: $section-headings-color;
+    color: #2B416C;
   }
 
   p {
