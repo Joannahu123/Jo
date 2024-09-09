@@ -3,7 +3,7 @@ description: "Class of 2025"
 owner_name: Joanna Hu
 github_username: joannahu123
 github_repo: "Jo" 
-baseurl: "/Joanna_page"
+baseurl: "/Jo"
 future: true
 remote_theme: jekyll/minima
 minima:
