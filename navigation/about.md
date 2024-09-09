@@ -88,7 +88,7 @@ permalink: /about/
             <p>San Diego</p>
             <ul>
                 <li>Attend(ed) middle and high school </li>
-                <li>Continued swimming with SDAC</li>
+                <li>Continued swimming at a new club called SDAC</li>
                 <li>Learned crochet and made a small business</li>
             </ul>
             <img src="{{site.baseurl}}/images/casunset.png" alt="CA gurl">
@@ -102,8 +102,13 @@ permalink: /about/
 <br>
 <br>
 
+
+
 <div style="text-align: center;">
     <img src="{{site.baseurl}}/images/1180w-600h_a-to-z-dumbo.jpg" alt="endless love for dumbo" width="600" height="350">
     <br>
     <h4>Dumbo is my childhood and comfort character</h4>
 </div>
+
+
+
