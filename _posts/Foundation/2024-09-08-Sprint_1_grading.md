@@ -309,58 +309,58 @@
   </tr>
   <tr class="small-text">
     <td>Attendance</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>Y</td>
+    <td>4</td>
+    <td>0.90</td>
     <td>x</td>
   </tr>
   <tr class="small-text">
     <td>Work Habits</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>Y</td>
+    <td>4</td>
+    <td>0.90</td>
+    <td>active in class and make effort to understand code with avalible resources</td>
   </tr><tr class="small-text">
     <td>Behavior</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>Y</td>
+    <td>4</td>
+    <td>0.90</td>
+    <td>positive attitude</td>
   </tr><tr class="small-text">
     <td>Timeliness</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>Y</td>
+    <td>4</td>
+    <td>0.90</td>
+    <td>Never late</td>
   </tr><tr class="small-text">
     <td>Tech Sense</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>Y</td>
+    <td>3</td>
+    <td>0.85</td>
     <td>x</td>
   </tr><tr class="small-text">
     <td>Tech Talk</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>Y</td>
+    <td>4</td>
+    <td>0.90</td>
+    <td>Ask plenty of questions on how the code works</td>
   </tr><tr class="small-text">
     <td>Tech Growth</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>Y</td>
+    <td>4</td>
+    <td>0.90</td>
+    <td>Started with no previous knowledge but now I understand basics of different languages and how to apply them</td>
   </tr><tr class="small-text">
     <td>Advocacy</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>Y</td>
+    <td>4</td>
+    <td>0.90</td>
+    <td>Help with any questions I can and offer solutions to those who had similar problems I had</td>
   </tr><tr class="small-text">
     <td>Comm & Collab</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>Y</td>
+    <td>4</td>
+    <td>0.90</td>
     <td>x</td>
   </tr><tr class="small-text">
     <td>Integrity</td>
