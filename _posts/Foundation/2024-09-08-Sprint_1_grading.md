@@ -1,7 +1,7 @@
----
+<!-----
 comments: true
 ---
-
+-->
 <style>
   .small-text {
     font-size: 12px;
@@ -11,11 +11,42 @@ comments: true
   }
 </style>
 
+
+<h3>Laptop Verification or Cloud Workspace</h3>
+<img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-10 010635.png" alt="Basic commands">
+
+<h3>VSC Gitlens</h3>
+<p>- git log: see commit history<br>- git staus: see changes in wd<br>- git commit -m "commit comment": commit changes with a message</p>
+<h3>Laptop Verification or Cloud Workspace</h3>
+<img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-10 012640.png">
+
+<h3>Github student_2025 repo</h3>
+<p>- git push origin [branch name (ex. main)]</p>
+<img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-10 013416.png">
+
+<h3>Github pages actions</h3>
+<!--image of actions (run times)-->
+<img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-10 013605.png">
+
+<h3>hacks tools and equipment play</h3>
+
+
+<h3>hacks github pages playground</h3>
+<!--link princess page and mulan both-->
+
+<h3>hacks SASS basics</h3>
+
+
+<h3>hacks Frontend</h3>
+[Link to this assignment](Joanna's_first_page.md)
+<a href= "_posts/Foundation/2024-09-04-Joanna's_first_page.md" target= "_blank">First page link</a>
+
+
 <h3>Sprint 1 Key Objectives</h3>
 <p class="small-text">Rank to Ratio, rank is an integer<br>0 = .00 work, but faking understanding/accomplishment<br>1 = .55 incomplete assignment, big gaps<br>2 = .75 meeting some objectives, multiple little gaps<br>3 = .85 meeting most objectives, one little gap<br>4 = .90 meeting all objectives<br>4+Mastered-Y = .95 exceeding all objectives, requires links and office hours verification </p>
 
 
-<h4>Peer Graded:</h4>
+<!--<h4>Peer Graded:</h4>
 <table>
   <tr class="large-text">
     <th>Skill</th>
@@ -108,7 +139,7 @@ comments: true
     <td>x</td>
     <td></td>
   </tr>  
-</table>
+</table>-->
 
 
 <h4>Self Graded:</h4>
@@ -209,7 +240,7 @@ comments: true
 <br>
 
 <h3>Learning Habits Table:</h3>
-<h5>Peer evaluation</h5>
+<!--<h5>Peer evaluation</h5>
 <table>
   <tr class="large-text">
     <th>Skill</th>
@@ -298,7 +329,7 @@ comments: true
     <td>x</td>
     <td>x</td>
   </tr>
-</table>
+</table>-->
 
 
 <h5>Self evaluation</h5>
@@ -315,14 +346,14 @@ comments: true
     <td>Y</td>
     <td>4</td>
     <td>0.90</td>
-    <td>x</td>
+    <td>Never late</td>
   </tr>
   <tr class="small-text">
     <td>Work Habits</td>
     <td>Y</td>
     <td>4</td>
     <td>0.90</td>
-    <td>active in class and make effort to understand code with avalible resources</td>
+    <td>activly ask questions and understand new things</td>
   </tr><tr class="small-text">
     <td>Behavior</td>
     <td>Y</td>
@@ -334,63 +365,70 @@ comments: true
     <td>Y</td>
     <td>4</td>
     <td>0.90</td>
-    <td>Never late</td>
+    <td>Use time in class wisely to work on assignments</td>
   </tr><tr class="small-text">
     <td>Tech Sense</td>
     <td>Y</td>
     <td>3</td>
     <td>0.85</td>
-    <td>x</td>
+    <td>Getting used to the new tech on my computer</td>
   </tr><tr class="small-text">
     <td>Tech Talk</td>
     <td>Y</td>
     <td>4</td>
     <td>0.90</td>
-    <td>Ask plenty of questions on how the code works</td>
+    <td>Ask plenty of questions</td>
   </tr><tr class="small-text">
     <td>Tech Growth</td>
     <td>Y</td>
     <td>4</td>
     <td>0.90</td>
-    <td>Started with no previous knowledge but now I understand basics of different languages and how to apply them</td>
+    <td>Started with no previous experience but now I understand basics of different languages and how to apply them</td>
   </tr><tr class="small-text">
     <td>Advocacy</td>
     <td>Y</td>
     <td>4</td>
     <td>0.90</td>
-    <td>Help with any questions I can and offer solutions to those who had similar problems I had</td>
+    <td>Try my best to help others with similar issues</td>
   </tr><tr class="small-text">
     <td>Comm & Collab</td>
     <td>Y</td>
     <td>4</td>
     <td>0.90</td>
-    <td>x</td>
+    <td>Work well with group mates in class and online</td>
   </tr><tr class="small-text">
     <td>Integrity</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>Y</td>
+    <td>4</td>
+    <td>0.90</td>
+    <td>Not afraid to ask questions, open to criticism</td>
   </tr><tr class="small-text">
     <td>Oganized</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>Y</td>
+    <td>4</td>
+    <td>0.90</td>
+    <td>Keep working area clean</td>
   </tr><tr class="small-text">
     <td>Total</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>[]</td>
+    <td>43</td>
+    <td>9.85</td>
+    <td>[]</td>
   </tr><tr class="small-text">
     <td>Agerage</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
+    <td>[]</td>
+    <td>3.909</td>
+    <td>0.895</td>
+    <td>[]</td>
   </tr>
 </table>
 
 
-<h4>Student Skills checklist</h4>
+<!-- comments-->
+<script src="https://utteranc.es/client.js"
+        repo="joannahu123/Jo"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
