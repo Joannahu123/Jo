@@ -27,22 +27,28 @@ comments: true
 <h3>Github pages actions</h3>
 <!--image of actions (run times)-->
 <img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-10 013605.png">
+<br>
 
 <h3>hacks tools and equipment play</h3>
-
+<a href= "{{site.baseurl}}_posts/2024-09-10-Playground_emojis.ipynb">file of running the code successfully</a> <!--WHY WON'T THE LINK DIRECT TO THE RIGHT PAGE IDK SOMEONE PLS HELP-->
+<br>
 
 <h3>hacks github pages playground</h3>
-<!--link princess page and mulan both-->
+<h5><a href= "https://maryamabdul-aziz.github.io/prince/" target = "_blank">Princess page </a><br> - for this project, I worked on the Mulan page </h5>
+<br>
 
 <h3>hacks SASS basics</h3>
-
+<h5>- made cosmetic changes to site (color of background, buttons, text, theme)
+<br>
 
 <h3>hacks Frontend</h3>
-[Link to this assignment](Joanna's_first_page.md)
-<a href= "_posts/Foundation/2024-09-04-Joanna's_first_page.md" target= "_blank">First page link</a>
+<a href= "https://joannahu123.github.io/Jo/2024/09/04/Joanna's-first-page.html" target= "_blank">First page link</a>
+<!-- why doesn't this one work- it goes to 404 page not found 
+<a href= "{{site.baserul}}_posts/Foundation/2024-09-04-Joanna's_first_page.md" target = "_blank">First page link </a>-->
+<br><br>
 
 
-<h3>Sprint 1 Key Objectives</h3>
+<h2>Sprint 1 Key Objectives</h2>
 <p class="small-text">Rank to Ratio, rank is an integer<br>0 = .00 work, but faking understanding/accomplishment<br>1 = .55 incomplete assignment, big gaps<br>2 = .75 meeting some objectives, multiple little gaps<br>3 = .85 meeting most objectives, one little gap<br>4 = .90 meeting all objectives<br>4+Mastered-Y = .95 exceeding all objectives, requires links and office hours verification </p>
 
 
