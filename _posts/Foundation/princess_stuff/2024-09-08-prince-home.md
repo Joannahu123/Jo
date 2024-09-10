@@ -8,4 +8,4 @@ permalink: /princess/home
 
 This is the home page to our Princess directory! Click on the links above to learn more about our favorite princesses!
 
-![smiling princesses]({{site.baseurl}}/images/happy.png)
+![smiling princesses]({{site.baseurl}}/images/princess/happy.png)

@@ -30,11 +30,11 @@ comments: true
 <br>
 
 <h3>hacks tools and equipment play</h3>
-<a href= "{{site.baseurl}}_posts/2024-09-10-Playground_emojis.ipynb">file of running the code successfully</a> <!--WHY WON'T THE LINK DIRECT TO THE RIGHT PAGE IDK SOMEONE PLS HELP-->
+<a href= "{{site.baseurl}}/2024/09/10/Playground_emojis.ipynb">file of running the code successfully</a> <!--WHY WON'T THE LINK DIRECT TO THE RIGHT PAGE IDK SOMEONE PLS HELP-->
 <br>
 
 <h3>hacks github pages playground</h3>
-<h5><a href= "https://maryamabdul-aziz.github.io/prince/" target = "_blank">Princess page </a><br> - for this project, I worked on the Mulan page </h5>
+<h5><a href= "https://joannahu123.github.io/Jo/princess/home" target = "_blank">Princess page </a><br> - for this project, I worked on the Mulan page </h5>
 <br>
 
 <h3>hacks SASS basics</h3>

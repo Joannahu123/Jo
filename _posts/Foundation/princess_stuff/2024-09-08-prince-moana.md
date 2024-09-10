@@ -9,7 +9,7 @@ permalink: /princess/moana
 
 Moana!
 
-![image of Moana]({{site.baseurl}}/images/moana.png)
+![image of Moana]({{site.baseurl}}/images/princess/moana.png)
 
 **Movie:** Moana (2016)
 <br>
