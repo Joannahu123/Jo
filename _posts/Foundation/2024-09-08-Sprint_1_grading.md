@@ -42,7 +42,7 @@ comments: true
 <br>
 
 <h3>hacks Frontend</h3>
-<a href= "https://joannahu123.github.io/Jo/2024/09/04/Joanna's-first-page.html" target= "_blank">First page link</a>
+<a href= "https://joannahu123.github.io/Jo/2024/09/04/Joanna's_first_page.html" target= "_blank">First page link</a>
 <!-- why doesn't this one work- it goes to 404 page not found 
 <a href= "{{site.baserul}}_posts/Foundation/2024-09-04-Joanna's_first_page.md" target = "_blank">First page link </a>-->
 <br><br>
