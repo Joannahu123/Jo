@@ -4,6 +4,14 @@ title: About
 permalink: /about/
 ---
 
+<script>
+{% include nav_Jo.html %}
+</script>
+
+{% include nav_Jo.html %}
+
+
+
 <br>
 
 <h2>My timeline:</h2>

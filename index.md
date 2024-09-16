@@ -5,6 +5,9 @@ description: Home Page
 hide: true
 ---
 
+{% include nav_Jo.html %}
+<br>
+
 <head>
   <style>
     .grid-container {

@@ -1,4 +1,5 @@
 
+
 <!--button to silly cat 1-->
 <div style="text-align: center;">
 <div>
@@ -26,3 +27,9 @@
 
 <h4>Hope you like cats too now</h4>
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey</title>
+</head>
+<body>

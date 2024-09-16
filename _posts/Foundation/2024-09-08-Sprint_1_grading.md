@@ -1,7 +1,11 @@
-<!-----
-comments: true
 ---
--->
+layout: post
+hide: False
+title: Spring_1_grading
+---
+
+{% include nav_Jo.html %}
+
 
 <head>
 <style>
@@ -15,43 +19,94 @@ comments: true
 </head>
 
 <body>
-<h3>Laptop Verification or Cloud Workspace</h3>
+
+<h3><b>Laptop Verification or Cloud Workspace</b></h3>
 <img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-10 010635.png" alt="Basic commands">
 
-<h3>VSC Gitlens</h3>
-<p>- git log: see commit history<br>- git staus: see changes in wd<br>- git commit -m "commit comment": commit changes with a message</p>
-<h3>Laptop Verification or Cloud Workspace</h3>
-<img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-10 012640.png">
+<h3><b>VSC Gitlens</b></h3>
+  <p>- git log: see commit history<br>- git staus: see changes in wd<br>- git commit -m "commit comment": commit changes with a message</p>
+  <h3>Laptop Verification or Cloud Workspace</h3>
+  <img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-10 012640.png">
 
-<h3>Github student_2025 repo</h3>
-<p>- git push origin [branch name (ex. main)]</p>
-<img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-10 013416.png">
+<h3><b>Github student_2025 repo</b></h3>
+  <p>- git push origin [branch name (ex. main)]</p>
+  <img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-10 013416.png">
 
-<h3>Github pages actions</h3>
-<!--image of actions (run times)-->
-<img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-10 013605.png">
+<h3><b>Github pages actions</b></h3>
+  <!--image of actions (run times)-->
+  <img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-10 013605.png">
+
 <br>
 
-<h3>hacks tools and equipment play</h3>
-<a href= "{{site.baseurl}}/2024/09/10/Playground_emojis.ipynb">file of running the code successfully</a> <!--WHY WON'T THE LINK DIRECT TO THE RIGHT PAGE IDK SOMEONE PLS HELP-->
+<h3><b>Hacks tools and equipment play</b></h3>
+<h5>Grid hack: picture of cat grid on index.md and code used:</h5>
+<div class="image-container">
+  <img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-15 233156.png" alt="og grid" style="width:250px;height:320px;">
+  <img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-15 233159.png" alt="head code" style="width:250px;height:320px">
+  <img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-15 233215.png" alt="body code" style="width:250px;height:320px">
+</div>
+<br>
+<a href= "{{site.baseurl}}/2024/09/10/Playground_emojis.ipynb">file of verify code and runs</a> <!--WHY WON'T THE LINK DIRECT TO THE RIGHT PAGE IDK SOMEONE PLS HELP-->
+
+<h4><b>Tools hacks:</b></h4>
+<h5>
+<ul>
+  <li>Version Control</li>
+    <ul>
+      <li>How are the files from GitHub placed on your local machine? How do you navigate to those files?</li>
+        <ul><li>Clone the files with git clone command. Navigate by using the cd command (change directory). ls lists all the files under the current cd which can help find the file.</li></ul>
+      <li>How are the files updated in GitHub? How do you navigate to those files?</li>
+        <ul><li>After saving changes locally, stage the changes, add a message, then commit and push it through on vsc to Github. These changes can be seen under actions tab of github</li></ul>
+      <li>How would you update your template of the portfolio_2025 repository? How would you make it more applicable to your specific course?</li>
+        <ul><li>Change index.md page, about me, add blog posts, change the theme. I also changed the favicon for fun</li></ul>
+    </ul>
+  <li>Localhost vs. Deployed Server</li>
+    <ul>
+      <li>Put into words the difference between viewing GitHub Pages running on your localhost machine versus running on a deployed server.</li>
+        <ul><li>Local changes are only visible to me when the page is refreshed from the make command since the changes are on my personal computer. Deployed changes are on the internet so public can view and more permanent compared to local.</li></ul>
+      <li>What is the localhost URL for your project? Can anyone else see what you see?</li>
+        <ul><li>created when make in terminal, nobody else can see</li></ul>
+      <li>What is the GitHub Pages URL for your project? Can anyone else see what you see?</li>
+        <ul><li>Linked in my github portfolio, anyone can see</li></ul>
+    </ul>
+  <li>DNS and GitHub Pages</li>
+    <ul>
+      <li>Is there a domain on your GitHub Pages?</li>
+        <ul><li>yes, linked to my github portfolio</li></ul>
+      <li>Is the URL for your GitHub Pages different from your neighbors’ URLs? Did you change the URL? If so, when?</li>
+        <ul><li>Yes it is different with my github username and repo name</li></ul>
+    </ul>
+</ul>
+
+<br><br>
+
+<h3><b>Hacks github pages playground</b></h3>
+<h5><a href= "https://joannahu123.github.io/Jo/princess/home" target = "_blank">Princess page</a>
+<br>
+  <li>for this project, I worked on the Mulan page</li>
+</h5>
+<h5><a href="https://utteranc.es/">Utterance link</a></h5>
+<h4>Hacks</h4>
+  <h5>Submenu code:</h5>
+  <img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-16 011214.png" alt="code for submenu">
+
+<br><br>
+
+<h3><b>Hacks SASS basics</b></h3>
+<h5><li>made cosmetic changes to site (color of background, buttons, text, theme)</li></h5>
+
 <br>
 
-<h3>hacks github pages playground</h3>
-<h5><a href= "https://joannahu123.github.io/Jo/princess/home" target = "_blank">Princess page </a><br> - for this project, I worked on the Mulan page </h5>
-<br>
-
-<h3>hacks SASS basics</h3>
-<h5>- made cosmetic changes to site (color of background, buttons, text, theme)
-<br>
-
-<h3>hacks Frontend</h3>
-<a href= "https://joannahu123.github.io/Jo/2024/09/04/Joanna's_first_page.html" target= "_blank">First page link</a>
-<!-- why doesn't this one work- it goes to 404 page not found 
-<a href= "{{site.baserul}}_posts/Foundation/2024-09-04-Joanna's_first_page.md" target = "_blank">First page link </a>-->
+<h3><b>hacks Frontend</b></h3>
+  <a href= "https://joannahu123.github.io/Jo/2024/09/04/Joanna's_first_page.html" target= "_blank">First page link</a>
+  <!-- why doesn't this one work- it goes to 404 page not found 
+  <a href= "{{site.baserul}}_posts/Foundation/2024-09-04-Joanna's_first_page.md" target = "_blank">First page link </a>-->
+  <h4>code:</h4>
+  <img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-16 012910.png" alt="code for first page" >
 <br><br>
 
 
-<h2>Sprint 1 Key Objectives</h2>
+<h2><b>Sprint 1 Key Objectives</b></h2>
 <p class="small-text">Rank to Ratio, rank is an integer<br>0 = .00 work, but faking understanding/accomplishment<br>1 = .55 incomplete assignment, big gaps<br>2 = .75 meeting some objectives, multiple little gaps<br>3 = .85 meeting most objectives, one little gap<br>4 = .90 meeting all objectives<br>4+Mastered-Y = .95 exceeding all objectives, requires links and office hours verification </p>
 
 
@@ -152,7 +207,7 @@ comments: true
 
 <br>
 
-<h3>Learning Habits Table:</h3>
+<h3><b>Learning Habits Table:</b></h3>
 <!--<h5>Peer evaluation</h5>
 <table>
   <tr class="large-text">
