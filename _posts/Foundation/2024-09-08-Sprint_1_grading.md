@@ -46,7 +46,7 @@ title: Spring_1_grading
   <img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-15 233215.png" alt="body code" style="width:250px;height:320px">
 </div>
 <br>
-<a href= "{{site.baseurl}}/2024/09/10/Playground_emojis.ipynb">file of verify code and runs</a> <!--WHY WON'T THE LINK DIRECT TO THE RIGHT PAGE IDK SOMEONE PLS HELP-->
+<a href= "{{site.baseurl}}/_notebooks/Foundation/2024-09-10-Playground_emojis.ipynb">file of verify code and runs</a> <!--WHY WON'T THE LINK DIRECT TO THE RIGHT PAGE IDK SOMEONE PLS HELP-->
 
 <h4><b>Tools hacks:</b></h4>
 <h5>
@@ -101,6 +101,7 @@ title: Spring_1_grading
   <a href= "https://joannahu123.github.io/Jo/2024/09/04/Joanna's_first_page.html" target= "_blank">First page link</a>
   <!-- why doesn't this one work- it goes to 404 page not found 
   <a href= "{{site.baserul}}_posts/Foundation/2024-09-04-Joanna's_first_page.md" target = "_blank">First page link </a>-->
+  <li>Frontend hack and snake game both under first page</li>
   <h4>code:</h4>
   <img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-16 012910.png" alt="code for first page" >
 <br><br>
@@ -122,8 +123,8 @@ title: Spring_1_grading
   <tr class="small-text">
     <td>Laptop Verification/ Cloud workspace</td>
     <td>Y</td>
-    <td>3.5</td>
-    <td>0.88</td>
+    <td>4</td>
+    <td>0.90</td>
     <td>verification by Linux commands notebook</td>
   </tr>
   <tr class="small-text">
@@ -157,8 +158,8 @@ title: Spring_1_grading
   <tr class="small-text">
     <td>Hacks Tools & Equipment Play</td>
     <td>Y</td>
-    <td>3.5</td>
-    <td>0.87</td>
+    <td>4</td>
+    <td>0.90</td>
     <td> <a href="https://nighthawkcoders.github.io/portfolio_2025/jupyter/notebook/python#hacks" target="_blank" class="button">Hacks</a></td>
   </tr>  
   <tr class="small-text">
@@ -199,8 +200,8 @@ title: Spring_1_grading
   <tr class="small-text">
     <td>Average</td>
     <td>x</td>
-    <td>3.75</td>
-    <td>0.887</td>
+    <td>3.85</td>
+    <td>0.892</td>
     <td></td>
   </tr>  
 </table>
