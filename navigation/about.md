@@ -72,8 +72,8 @@ permalink: /about/
                 <li>I don't remember anyting from this time</li>
                 <li>But I was a really cute baby</li>
             </ul>
-            <img src="{{site.baseurl}}/images/baby.png" alt="CA gurl">
-            <img src="{{site.baseurl}}/images/wholefamily.png" alt="CA gurl">
+            <img src="{{site.baseurl}}/images/Sprint_1/baby.png" alt="CA gurl">
+            <img src="{{site.baseurl}}/images/Sprint_1/wholefamily.png" alt="CA gurl">
         </div>
     </div>
     <div class="timeline-item">
@@ -86,8 +86,8 @@ permalink: /about/
                 <li>Went to elementary and Intermediate school</li>
                 <li>Favorite place: Kings Island Amusement Park</li>
             </ul>
-           <img src="{{site.baseurl}}/images/masonview.png" alt="CA gurl">
-           <img src="{{site.baseurl}}/images/snowbear.png" alt="CA gurl">
+           <img src="{{site.baseurl}}/images/Sprint_1/masonview.png" alt="CA gurl">
+           <img src="{{site.baseurl}}/images/Sprint_1/snowbear.png" alt="CA gurl">
         </div>
     </div>
     <div class="timeline-item">
@@ -99,8 +99,8 @@ permalink: /about/
                 <li>Continued swimming at a new club called SDAC</li>
                 <li>Learned crochet and made a small business</li>
             </ul>
-            <img src="{{site.baseurl}}/images/casunset.png" alt="CA gurl">
-            <img src="{{site.baseurl}}/images/At_school.png" alt="CA gurl">
+            <img src="{{site.baseurl}}/images/Sprint_1/casunset.png" alt="CA gurl">
+            <img src="{{site.baseurl}}/images/Sprint_1/At_school.png" alt="CA gurl">
         </div>
     </div>
 </div>
