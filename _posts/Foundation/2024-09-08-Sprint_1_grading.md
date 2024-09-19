@@ -1,7 +1,7 @@
 ---
 layout: post
-hide: False
-title: Spring_1_grading
+hide: true
+title: Sprint_1_grading
 ---
 
 {% include nav_Jo.html %}

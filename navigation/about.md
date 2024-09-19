@@ -118,5 +118,11 @@ permalink: /about/
     <h4>Dumbo is my childhood and comfort character</h4>
 </div>
 
-
-
+<!--utterances-->
+<script src="https://utteranc.es/client.js"
+        repo="joannahu123/Jo"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
