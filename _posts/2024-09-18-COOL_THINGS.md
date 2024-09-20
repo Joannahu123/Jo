@@ -15,3 +15,5 @@ title: Cool links
 <a href="https://joannahu123.github.io/Jo/2024/09/18/snake.html">Snake </a>
 
 <a href="https://joannahu123.github.io/Jo/javascript/2024/09/18/Calculator.html">Calculator </a>
+
+<a href="https://joannahu123.github.io/Jo/2024/09/20/cookieclicker.html">Cookie Clicker </a>
