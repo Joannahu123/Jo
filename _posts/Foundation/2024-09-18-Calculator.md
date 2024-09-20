@@ -5,7 +5,10 @@ description: A common way to become familiar with a language is to build a calcu
 categories: [Javascript]
 toc: true
 comments: false
+hide: false
 ---
+
+{% include nav_Jo.html %}
 
 <!-- 
 Hack 0: Right justify the result

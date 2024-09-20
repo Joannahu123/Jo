@@ -1,6 +1,6 @@
 ---
 layout: post
-hide: true
+hide: false
 title: Sprint_1_grading
 ---
 
@@ -46,7 +46,9 @@ title: Sprint_1_grading
   <img src="{{site.baseurl}}/images/Sprint_1/Screenshot 2024-09-15 233215.png" alt="body code" style="width:250px;height:320px">
 </div>
 <br>
-<a href= "{{site.baseurl}}/_notebooks/Foundation/2024-09-10-Playground_emojis.ipynb">file of verify code and runs</a> <!--WHY WON'T THE LINK DIRECT TO THE RIGHT PAGE IDK SOMEONE PLS HELP-->
+<a href= "https://joannahu123.github.io/Jo/2024/09/10/Playground_emojis_IPYNB_2_.html">Emoji hack</a>
+<br>
+<a href= "https://joannahu123.github.io/Jo/2024/09/05/verify_IPYNB_2_.html">Verify</a>
 
 <h4><b>Tools hacks:</b></h4>
 <h5>
