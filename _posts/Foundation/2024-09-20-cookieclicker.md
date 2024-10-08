@@ -96,9 +96,11 @@ header: none
    </header>
 
    <main>
-       <h1>Cookie Clicker</h1>
+       <h1>Click that dog!</h1>
+       <h3>(for a cookie)</h3>
+       <br>
        <div id="gameContainer">
-           <img id="cookie" src="{{site.baseurl}}/images/Sprint_1/CCC-Cuisinart-IG-BEST-1-scaled-removebg-preview.png" alt="Cookie">
+           <img id="cookie" src="{{site.baseurl}}/images/Sprint_1/images-removebg-preview.png" alt="Cookie">
            <div id="score">Cookies: 0</div>
 
            <div id="upgrades">

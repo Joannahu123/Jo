@@ -1,7 +1,7 @@
 ---
 layout: post
 hide: false
-title: Sprint 1 grading
+title: Sprint 1 
 ---
 
 {% include nav_Jo.html %}
