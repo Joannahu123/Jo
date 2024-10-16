@@ -77,6 +77,6 @@ hide: true
 <br>
 <br>
 <div style="text-align: center;">
-    <p title = "you can't click me haha"><img src="images/cute_cat.jpg" alt="silly cat with a hat is sad you can't see it" width="600" height="350"></p>
+    <p title = "you can't click me haha"><img src="{{site.baseurl}}/images/cute_cat.jpg" alt="silly cat with a hat is sad you can't see it" width="600" height="350"></p>
 </div>
 </body>
