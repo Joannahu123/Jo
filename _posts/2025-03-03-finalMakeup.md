@@ -7,11 +7,21 @@ title: Tri 2 final add-ons
 
 <h2>Additional things I did to improve (after my retrospective)</h2>
 
+- Video of feature demo
 - FRQ review
 - Complete self assesment
 
 
 <br>
+
+
+<h3>Video Demo</h3>
+<p>My feature is the recipe posting system where users can post comments from recipies from other sites. It serves similar to a social media aspect where users can read each other's posts.</p>
+
+<video controls autoplay loop muted width="600">
+    <source src="{{site.baseurl}}/images/tri2final/videodemoreal.mp4" type="video/mp4">
+</video>
+
 
 
 <h3>FRQ practice </h3>
@@ -115,9 +125,9 @@ I'll provide code from my feature + explaination for each component of the FRQ b
 |       | points |Self Grade | Reflection |
 |-------|--------|------------|-----------|
 |   5 accomplishments    | .5 |   .48   |   <small>Distinct 5 accomplishments, covering multiple aspects of the class, that go in detail (db storage, postman, CPT, CRUD, Kanban). Have supporting code/ vocab/ pictures when appropriate. </small>
-|   Project demo, CPT, n@tm    |  .2 |   .2   |  <small> Full stack for my feature working and deployed. CPT discussed in 5 accomplishments in detail (with vocab and code), lots of n@tm pictures and throrough reflection on the experience. </small> |     
+|   Project demo, CPT, n@tm    |  .2 |   .18   |  <small> Full stack for my feature working and deployed! Demo in person good but didn't have video of demo. CPT discussed in 5 accomplishments in detail (with vocab and code), lots of n@tm pictures and throrough reflection on the experience. </small> |     
 |   Project feature blog w CPT lang   |  .1  |  .1  | <small> Complete blog starting with explaining frontend of feature, then backend. Explain success and failure and how I managed problems. Use of CPT language and supporting examples </small>      
-|   MCQ    |  .1  |  .08  | <small> Complete MCQ on time, reflection on strengths + weaknesses included and also compared to last tri to see improvement in areas I used to struggle in. However, didn't have complete corrections on time </small>  |
+|   MCQ    |  .1  |  .08  | <small> Complete MCQ on time, reflection on strengths + weaknesses included and also compared to last tri to see improvement in areas I used to struggle in. </small>  |
 |   ability to impress    | .1  |  0.08  | <small> Reached out before the retrospective, asked someone new (my mom) for help for review, mentioned overall goals/ future plans, took extreme interest at N@tm. Added a time on my blog to practice on my own (thanks chat). Self assesment done late though...</small>  
 |total| 1 | 0.90 (original) | 0.94 (updated/ after revisions) | 
 
