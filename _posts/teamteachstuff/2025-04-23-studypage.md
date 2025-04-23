@@ -45,6 +45,7 @@ hide: false
     <li><a href="https://joannahu123.github.io/Jo/2025/04/01/safecomputing.html" target="_blank">Safe computing</a></li>
     <li><a href="https://joannahu123.github.io/Jo/2025/04/04/binary.html" target="_blank">Binary Search Algorithm - Team Teach</a></li>
     <li><a href="https://joannahu123.github.io/Jo/2025/04/07/lists.html" target="_blank">Lists and Filtering Algorithms</a></li>
+    <li><a href="https://joannahu123.github.io/Jo/2025/04/22/mcq.html" target="_blank">MCQ + corrections</a></li>
   </ul>
 
 </body>
