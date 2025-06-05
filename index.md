@@ -82,6 +82,12 @@ hide: true
 </body>
 
 
-## My linkden!
+## 🔗 My LinkedIn  
+<a href="https://www.linkedin.com/in/joanna-hu123/" target="_blank">
+  <img src="{{site.baseurl}}/images/Screenshot 2025-06-05 100738.png" alt="LinkedIn Profile Screenshot" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 10px;">
+</a>
 
-<img src="{{site.baseurl}}/images/Screenshot 2025-06-05 100738.png">
+## 📄 My Resume  
+<a href="https://docs.google.com/document/d/10ez-7OGcsudlbyKHnw5dfRuHdSQw3TUZ/edit" target="_blank">
+  <img src="{{site.baseurl}}/images/Screenshot 2025-06-05 101556.png" alt="Resume Screenshot" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 10px;">
+</a>
