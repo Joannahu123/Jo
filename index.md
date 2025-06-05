@@ -88,6 +88,6 @@ hide: true
 </a>
 
 ## 📄 My Resume  
-<a href="https://docs.google.com/document/d/10ez-7OGcsudlbyKHnw5dfRuHdSQw3TUZ/edit" target="_blank">
+<a href="file:///C:/Users/jomoj/Downloads/Resume%20Joanna%20Hu.docx%20(6).pdf" target="_blank">
   <img src="{{site.baseurl}}/images/Screenshot 2025-06-05 101556.png" alt="Resume Screenshot" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 10px;">
 </a>
