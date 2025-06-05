@@ -80,3 +80,8 @@ hide: true
     <p title = "you can't click me haha"><img src="{{site.baseurl}}/images/cute_cat.jpg" alt="silly cat with a hat is sad you can't see it" width="600" height="350"></p>
 </div>
 </body>
+
+
+## My linkden!
+
+<img src="{{site.baseurl}}/images/Screenshot 2025-06-05 100738.png">
